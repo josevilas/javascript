@@ -11,3 +11,6 @@ function verificar() {
     document.getElementById("result").innerHTML = " ";
   }
 }
+function limpar(){
+  document.getElementById("result").innerHTML = "";
+}
